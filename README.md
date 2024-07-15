@@ -1,3 +1,4 @@
+t
 <h1 align="center">
     <a href="https://github.com/strato-emu/strato" target="_blank">
         <img height="60%" width="60%" src="https://raw.github.com/strato-emu/branding/master/banner/strato-banner-rounded.png"><br>
